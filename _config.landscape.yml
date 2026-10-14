@@ -1,1 +1,3 @@
-banner: /images/banner.jpg
+banner: /my-blog/images/banner.jpg
+# 置空以隐藏顶部的RSS订阅图标（留空即不渲染）
+rss:
